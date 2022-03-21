@@ -1,6 +1,6 @@
 <h1 align="center">Elasticsearch with Colab & Jupyter </h1>
 <p align="center">
-<img src="https://toppng.com/uploads/preview/once-upon-a-time-elastic-search-png-ico-115632852950t51guoxee.png" alt="drawing" width="200" />
+<img src="https://iconape.com/wp-content/files/op/370830/svg/370830.svg" alt="drawing" width="200" />
 </p>
 
 ### This project illustrates how to use Elasticsearch both on Google Colab and Jupyer Notebook.
