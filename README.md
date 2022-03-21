@@ -15,7 +15,7 @@ The dataset used in notebooks is from @gowrishankarp on Kaggle called: [CNN-Dail
 
 |      Notebook      |                                                                                                                                                                                                 |
 |:------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Elasticsearch | [![Open In Colab](https://colab.research.google.com/github/HamidRezaAttar/Elasticsearch-Jupyter-Colab/blob/main/notebooks/python-elasticsearch-colab.ipynb) |
+| Elasticsearch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HamidRezaAttar/Elasticsearch-Jupyter-Colab/blob/main/notebooks/python-elasticsearch-colab.ipynb) |
 
 # Questions?
 Post a Github issue on the [Issues](https://github.com/HamidRezaAttar/Elasticsearch-Jupyter-Colab/issues) repo.
