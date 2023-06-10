@@ -17,5 +17,8 @@ The dataset used in notebooks is from @gowrishankarp on Kaggle called: [CNN-Dail
 |:------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Elasticsearch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HamidRezaAttar/Elasticsearch-Jupyter-Colab/blob/main/notebooks/python-elasticsearch-colab.ipynb) |
 
+# New Update (June 10 2023)
+New notebook for using **Elasticsearch 8.8.0** on **Google Colab**. Check it out in notebooks folder. (**python_elasticsearch_8_8_0_colab.ipynb**)
+
 # Questions?
 Post a Github issue on the [Issues](https://github.com/HamidRezaAttar/Elasticsearch-Jupyter-Colab/issues) repo.
